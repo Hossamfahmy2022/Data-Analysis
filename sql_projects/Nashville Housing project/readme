@@ -1,0 +1,3 @@
+In this data cleaning project using SQL queries, I standardized date formats, populated missing
+property addresses, broke down address components, standardized values, and removed duplicate records
+from the 'houses' table.
