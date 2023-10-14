@@ -1,0 +1,2 @@
+The provided SQL code performs data exploration on COVID-19 data using various techniques such as
+joins, CTEs, temp tables, window functions, and aggregate functions.
